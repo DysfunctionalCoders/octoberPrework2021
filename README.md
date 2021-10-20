@@ -1,6 +1,6 @@
 # VetsInTech Prework
 
-## START HERE.
+## START HERE
 
 You should be familiar with the contents of these videos prior to starting the pre-work.
 
